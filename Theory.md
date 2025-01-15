@@ -653,9 +653,8 @@ $h = \frac{u^2}{2g} = \frac{(10,000)^2}{2 \times 9.8} = \frac{100,000,000}{19.6}
 ---
 
 ### চিত্র
-![Distance vs Time Graph](distance_vs_time.png)  
-![Velocity vs Time Graph](velocity_vs_time.png)  
-![Acceleration vs Time Graph](acceleration_vs_time.png)
+![Graphs](./figgures/fig_2.10.png)  
+
 
 
 

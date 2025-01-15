@@ -653,7 +653,7 @@ $h = \frac{u^2}{2g} = \frac{(10,000)^2}{2 \times 9.8} = \frac{100,000,000}{19.6}
 ---
 
 ### চিত্র
-![Graphs](./figures/fig_2.10.png)  
+![Graphs](./figures/fig_2.09.png)  
 
 
 
